@@ -12,6 +12,12 @@ git clone https://github.com/hilmitunahan/kodluyoruzilkrepo.git
 ```
 
 ## **Usage**
+Projeyi clone'ladıktan sonra Visiul Studio Code uygulamasında açınız.
+Windows için :
+```
+cd kodluyoruzilkrepo code .
+
+```
 
 ## **Contributing**
 
